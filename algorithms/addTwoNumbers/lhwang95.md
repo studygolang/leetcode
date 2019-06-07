@@ -1,11 +1,3 @@
-/*
- * Definition for singly-linked list.
- * type ListNode struct {
- *     Val int
- *     Next *ListNode
- * }
-/*
-
 ```
 // 12ms, 5.1MB
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
