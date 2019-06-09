@@ -1,3 +1,4 @@
+4ms，3.1Mb
 ```
 func searchInsert(nums []int, target int) int {
     res, length := 0, len(nums)
