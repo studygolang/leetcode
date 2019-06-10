@@ -11,3 +11,7 @@
         - [search_insert_position](https://leetcode.com/problems/search-insert-position/)
         - [maximum-subarray](https://leetcode.com/problems/maximum-subarray/)
 
+    - 2019-06-10 
+        - [plus One ](https://leetcode.com/problems/plus-one/)
+        - [merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/)
+
