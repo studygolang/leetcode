@@ -2,6 +2,7 @@ Runtime: 0 ms, faster than 100.00% of Go online submissions for Pascal's Triangl
 
 Memory Usage: 2.3 MB, less than 50.97% of Go online submissions for Pascal's Triangle
 
+```
 func generate(numRows int) [][]int {
     res := make([][]int, 0) // 声明空返回值
     for i := 1; i <= numRows; i++ {
@@ -16,3 +17,4 @@ func generate(numRows int) [][]int {
     }
     return res
 }
+```
