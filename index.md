@@ -15,3 +15,7 @@
         - [plus One ](https://leetcode.com/problems/plus-one/)
         - [merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/)
 
+    - 2019-06-11
+        - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+        - [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+
