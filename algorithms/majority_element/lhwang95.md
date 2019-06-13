@@ -1,3 +1,8 @@
+Runtime: 12 ms, faster than 99.83% of Go online submissions for Majority Element.
+
+Memory Usage: 5.9 MB, less than 75.24% of Go online submissions for Majority Element.
+
+速度有点慢
 ```
 func majorityElement(nums []int) int {
     res, times := nums[0], 1
