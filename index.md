@@ -19,3 +19,14 @@
         - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
         - [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 
+    - 2019-06-12
+        - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+        - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+    
+    - 2019-06-13 
+        - [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+        - [Majority Element](https://leetcode.com/problems/majority-element/)
+
+    - 2019-06-14
+        - [ Rotate Array ](https://leetcode.com/problems/rotate-array/)
+        - [ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
