@@ -26,4 +26,7 @@
     - 2019-06-13 
         - [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
         - [Majority Element](https://leetcode.com/problems/majority-element/)
-    
+
+    - 2019-06-14
+        - [ Rotate Array ](https://leetcode.com/problems/rotate-array/)
+        - [ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
