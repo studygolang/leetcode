@@ -34,3 +34,7 @@
     - 2019-06-15
         - [contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/)
         - [missing-number](https://leetcode.com/problems/missing-number/)
+
+    - 2019-06-16
+        - [move-zeroes](https://leetcode.com/problems/move-zeroes/)
+        - [third-maximum-number](https://leetcode.com/problems/third-maximum-number/)
