@@ -38,3 +38,7 @@
     - 2019-06-16
         - [move-zeroes](https://leetcode.com/problems/move-zeroes/)
         - [third-maximum-number](https://leetcode.com/problems/third-maximum-number/)
+
+    - 2019-06-17
+        - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+        - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
