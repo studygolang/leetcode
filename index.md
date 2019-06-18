@@ -42,3 +42,7 @@
     - 2019-06-17
         - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
         - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+
+    - 2019-06-18
+        - [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+        - [561. Array Partition I](https://leetcode.com/problems/array-partition-i/)
