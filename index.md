@@ -46,3 +46,7 @@
     - 2019-06-18
         - [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
         - [561. Array Partition I](https://leetcode.com/problems/array-partition-i/)
+
+    - 2019-06-19
+        - [566-reshape-the-matrix](https://leetcode.com/problems/reshape-the-matrix/)
+        - [581-shortest-unsorted-continuous-subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
