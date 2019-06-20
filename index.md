@@ -50,3 +50,7 @@
     - 2019-06-19
         - [566-reshape-the-matrix](https://leetcode.com/problems/reshape-the-matrix/)
         - [581-shortest-unsorted-continuous-subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+
+    - 2019-06-20
+        - [605-can-place-flowers](https://leetcode.com/problems/can-place-flowers/)
+        - [628-maximum-product-of-three-numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
