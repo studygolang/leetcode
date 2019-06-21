@@ -54,3 +54,7 @@
     - 2019-06-20
         - [605-can-place-flowers](https://leetcode.com/problems/can-place-flowers/)
         - [628-maximum-product-of-three-numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+
+    - 2019-06-21
+        - [643-maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/)
+        - [661-image-smoother](https://leetcode.com/problems/image-smoother/)
