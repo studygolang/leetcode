@@ -58,3 +58,7 @@
     - 2019-06-21
         - [643-maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/)
         - [661-image-smoother](https://leetcode.com/problems/image-smoother/)
+
+    - 2019-06-22
+        - [509-fibonacci-number](https://leetcode.com/problems/fibonacci-number/)
+        - [674-longest-continuous-increasing-subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
