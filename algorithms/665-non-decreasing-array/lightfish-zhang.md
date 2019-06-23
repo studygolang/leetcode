@@ -44,7 +44,7 @@ func checkPossibility(nums []int) bool {
             if i == 1 || // 下降的一对元素在最左位置，可以改变第i-1元素，即第1个元素
                 (i+1) == len(nums) || // 下降的一对元素在最右位置，可以改变第i个元素
                 nums[i-1] <= nums[i+1]  || // 这对元素的右边相邻的元素比第i-1元素小，可以改变第i个元素
-                nums[i-2] < nums[i] { // 这对元素的右边相邻的元素比第i元素小，可以改变第i-1个元素
+                nums[i-2] < nums[i] { // 这对元素的左边相邻的元素比第i元素小，可以改变第i-1个元素
                 count = 1
             }else{
                 return false
