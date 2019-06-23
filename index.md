@@ -62,3 +62,7 @@
     - 2019-06-22
         - [509-fibonacci-number](https://leetcode.com/problems/fibonacci-number/)
         - [674-longest-continuous-increasing-subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
+
+    - 2019-06-23
+        - [665-non-decreasing-array](https://leetcode.com/problems/non-decreasing-array/)
+        - [697-degree-of-an-array](https://leetcode.com/problems/degree-of-an-array/)
