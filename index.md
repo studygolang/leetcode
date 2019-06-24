@@ -66,3 +66,7 @@
     - 2019-06-23
         - [665-non-decreasing-array](https://leetcode.com/problems/non-decreasing-array/)
         - [697-degree-of-an-array](https://leetcode.com/problems/degree-of-an-array/)
+
+    - 2019-06-24
+        - [717-1-bit-and-2-bit-characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)
+        - [764-find-pivot-index](https://leetcode.com/problems/find-pivot-index/)
