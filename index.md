@@ -70,3 +70,7 @@
     - 2019-06-24
         - [717-1-bit-and-2-bit-characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)
         - [764-find-pivot-index](https://leetcode.com/problems/find-pivot-index/)
+
+    - 2019-06-26
+        - [633-sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)
+        - [345-reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
