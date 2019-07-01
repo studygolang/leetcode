@@ -79,3 +79,12 @@
         - [680-valid-palindrome-ii](https://leetcode.com/problems/valid-palindrome-ii/description/)
         - [141-linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/description/)
         - [524-longest-word-in-dictionary-through-deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/)
+
+
+    ---
+    
+    ### 排序
+
+    - 2019-07-01
+        - [215-kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+        - [347-top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
