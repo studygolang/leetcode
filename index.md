@@ -54,3 +54,37 @@
     - 2019-06-20
         - [605-can-place-flowers](https://leetcode.com/problems/can-place-flowers/)
         - [628-maximum-product-of-three-numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+
+    - 2019-06-21
+        - [643-maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/)
+        - [661-image-smoother](https://leetcode.com/problems/image-smoother/)
+
+    - 2019-06-22
+        - [509-fibonacci-number](https://leetcode.com/problems/fibonacci-number/)
+        - [674-longest-continuous-increasing-subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
+
+    - 2019-06-23
+        - [665-non-decreasing-array](https://leetcode.com/problems/non-decreasing-array/)
+        - [697-degree-of-an-array](https://leetcode.com/problems/degree-of-an-array/)
+
+    - 2019-06-24
+        - [717-1-bit-and-2-bit-characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)
+        - [764-find-pivot-index](https://leetcode.com/problems/find-pivot-index/)
+
+    - 2019-06-26
+        - [633-sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)
+        - [345-reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
+
+    - 2019-06-27
+        - [680-valid-palindrome-ii](https://leetcode.com/problems/valid-palindrome-ii/description/)
+        - [141-linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+        - [524-longest-word-in-dictionary-through-deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/)
+
+
+    ---
+    
+    ### 排序
+
+    - 2019-07-01
+        - [215-kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+        - [347-top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
