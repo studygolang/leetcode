@@ -1,8 +1,8 @@
 
 - algorithms
     - 2019-06-07
-        - [Two Sum](./algorithms/twoSum/index.md)
-        - [Add Two Numbers](./algorithms/addTwoNumbers/index.md)
+        - [001-Two Sum](https://leetcode.com/problems/two-sum/)
+        - [002-Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
     - 2019-06-08
         - [Remove Element](./algorithms/remove_element/index.md)
         - [Remove Duplicates From Sorted Array](./algorithms/remove_duplicates_from_sorted_array/index.md)
@@ -88,3 +88,7 @@
     - 2019-07-01
         - [215-kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
         - [347-top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+
+    - 2019-07-02
+        - [451-sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
+        - [75-sort-colors](https://leetcode.com/problems/sort-colors/description/)
