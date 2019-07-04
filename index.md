@@ -92,3 +92,10 @@
     - 2019-07-02
         - [451-sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
         - [75-sort-colors](https://leetcode.com/problems/sort-colors/description/)
+
+
+    ### 贪心思想
+
+    - 2019-07-04
+        - [455-assign-cookies](https://leetcode.com/problems/assign-cookies/description/)
+        - [435-non-overlapping-intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
