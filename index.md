@@ -99,3 +99,8 @@
     - 2019-07-04
         - [455-assign-cookies](https://leetcode.com/problems/assign-cookies/description/)
         - [435-non-overlapping-intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
+
+    - 2019-07-05
+        - [406-queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height/)
+
+        - [452-minimum-number-of-arrows-to-burst-balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
