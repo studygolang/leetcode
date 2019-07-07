@@ -1,4 +1,4 @@
-### 347. 前K个高频元素
+###  451. 根据字符出现频率排序
 ### 代码
 
 ```
@@ -19,13 +19,11 @@ func frequencySort(s string) string{
                 for j:=0;j<v;j++{
                     res=append(res, k)
                 }
-                delete(m, k)
-            }            
+            }    
         }
     
     }
     return string(res)
 }
-
 
 ```
