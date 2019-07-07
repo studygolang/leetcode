@@ -104,3 +104,6 @@
         - [406-queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height/)
 
         - [452-minimum-number-of-arrows-to-burst-balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+
+    - 2019-07-07
+        - [763-partition-labels](https://leetcode.com/problems/partition-labels/description)
