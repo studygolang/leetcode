@@ -93,6 +93,7 @@
         - [451-sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
         - [75-sort-colors](https://leetcode.com/problems/sort-colors/description/)
 
+    ---
 
     ### 贪心思想
 
@@ -107,3 +108,12 @@
 
     - 2019-07-07
         - [763-partition-labels](https://leetcode.com/problems/partition-labels/description)
+
+
+    ---
+
+    ### 二分查找
+
+    - 2019-07-08 
+        - [069-sqrtx](https://leetcode.com/problems/sqrtx/description/)
+        - [744-find-smallest-letter-greater-than-target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
