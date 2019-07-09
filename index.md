@@ -117,3 +117,8 @@
     - 2019-07-08 
         - [069-sqrtx](https://leetcode.com/problems/sqrtx/description/)
         - [744-find-smallest-letter-greater-than-target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+
+    - 2019-07-09
+        - [540-single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array/description)
+
+        - [278-first-bad-version](https://leetcode.com/problems/first-bad-version/description)
