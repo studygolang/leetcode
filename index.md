@@ -122,3 +122,7 @@
         - [540-single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array/description)
 
         - [278-first-bad-version](https://leetcode.com/problems/first-bad-version/description)
+
+    - 2019-07-10
+        - [153-find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+        - [034-find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description)
