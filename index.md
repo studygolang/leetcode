@@ -1,8 +1,8 @@
 
 - algorithms
     - 2019-06-07
-        - [Two Sum](./algorithms/twoSum/index.md)
-        - [Add Two Numbers](./algorithms/addTwoNumbers/index.md)
+        - [001-Two Sum](https://leetcode.com/problems/two-sum/)
+        - [002-Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
     - 2019-06-08
         - [Remove Element](./algorithms/remove_element/index.md)
         - [Remove Duplicates From Sorted Array](./algorithms/remove_duplicates_from_sorted_array/index.md)
@@ -88,3 +88,41 @@
     - 2019-07-01
         - [215-kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
         - [347-top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+
+    - 2019-07-02
+        - [451-sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
+        - [75-sort-colors](https://leetcode.com/problems/sort-colors/description/)
+
+    ---
+
+    ### 贪心思想
+
+    - 2019-07-04
+        - [455-assign-cookies](https://leetcode.com/problems/assign-cookies/description/)
+        - [435-non-overlapping-intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
+
+    - 2019-07-05
+        - [406-queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height/)
+
+        - [452-minimum-number-of-arrows-to-burst-balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+
+    - 2019-07-07
+        - [763-partition-labels](https://leetcode.com/problems/partition-labels/description)
+
+
+    ---
+
+    ### 二分查找
+
+    - 2019-07-08 
+        - [069-sqrtx](https://leetcode.com/problems/sqrtx/description/)
+        - [744-find-smallest-letter-greater-than-target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+
+    - 2019-07-09
+        - [540-single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array/description)
+
+        - [278-first-bad-version](https://leetcode.com/problems/first-bad-version/description)
+
+    - 2019-07-10
+        - [153-find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+        - [034-find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description)
