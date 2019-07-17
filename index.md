@@ -126,3 +126,11 @@
     - 2019-07-10
         - [153-find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
         - [034-find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description)
+
+
+    --- 
+
+    ### 分治
+    - 2019-07-17
+        - [241-different-ways-to-add-parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)
+     
