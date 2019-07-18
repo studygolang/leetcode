@@ -1,0 +1,6 @@
+- [069-sqrtx](https://leetcode.com/problems/sqrtx/description/)
+- [744-find-smallest-letter-greater-than-target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+- [540-single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array/description)
+- [278-first-bad-version](https://leetcode.com/problems/first-bad-version/description)
+- [153-find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+- [034-find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description)
