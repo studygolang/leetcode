@@ -148,3 +148,6 @@
 
     - 2019-07-25 
         - [213-house-robber-ii](https://leetcode.com/problems/house-robber-ii/description/)
+
+    - 2019-07-28
+        - [064-minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/description/)

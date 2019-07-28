@@ -8,7 +8,7 @@
 func rob(nums []int) int {
 	x, y := 0, 0
 	for _, n := range nums {
-		x, y = y, x+y
+		x, y = y, x+n
 		if x > y {
 			y = x
 		}
