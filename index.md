@@ -151,3 +151,6 @@
 
     - 2019-07-28
         - [064-minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/description/)
+
+    - 2019-07-29
+        - [062-unique-paths](https://leetcode.com/problems/unique-paths/description/)
