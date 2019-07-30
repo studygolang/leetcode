@@ -154,3 +154,6 @@
 
     - 2019-07-29
         - [062-unique-paths](https://leetcode.com/problems/unique-paths/description/)
+
+    - 2019-07-30
+        - [303-range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
