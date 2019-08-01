@@ -16,7 +16,7 @@ func twoSum(nums []int, target int) []int {
         }
     }
 
-    return nil
+    return ·[]int{-1, -1}
 }
 ```
 哈希表  
@@ -34,10 +34,10 @@ func twoSum(nums []int, target int) []int {
             return []int{j, i}
         }
 
-        index[tmp] = i
+        index[num] = i
     }
 
-    return nil
+    return []int{-1, -1}
 }
 ```
 
