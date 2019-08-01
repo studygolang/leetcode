@@ -157,3 +157,6 @@
 
     - 2019-07-30
         - [303-range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
+
+    - 2019-08-01
+        - [413-arithmetic-slices](https://leetcode.com/problems/arithmetic-slices/description/)
