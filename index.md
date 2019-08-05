@@ -163,3 +163,6 @@
 
     - 2019-08-02
         - [343-integer-break](https://leetcode.com/problems/integer-break/description/)
+
+    - 2019-08-05
+        - [279-perfect-squares](https://leetcode.com/problems/perfect-squares/description/)
