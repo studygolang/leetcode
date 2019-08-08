@@ -169,3 +169,6 @@
 
     - 2019-08-07
         - [91-decode-ways](https://leetcode.com/problems/decode-ways/description/)
+
+    - 2019-08-08
+      - [300-longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
