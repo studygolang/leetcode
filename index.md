@@ -172,3 +172,6 @@
 
     - 2019-08-08
       - [300-longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+
+    - 2019-08-09
+      - [646-maximum-length-of-pair-chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
