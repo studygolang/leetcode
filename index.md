@@ -180,3 +180,6 @@
     #### 搜索
     - 2019-08-12
       - [127-word-ladder](https://leetcode.com/problems/word-ladder/description/)
+
+    - 2019-08-13
+      - [695-max-area-of-island](https://leetcode.com/problems/max-area-of-island/description/)
