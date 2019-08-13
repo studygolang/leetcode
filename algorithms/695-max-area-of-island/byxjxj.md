@@ -20,7 +20,6 @@ func maxAreaOfIsland(grid [][]int) int {
         for k := 0; k < 4; k++ {
             dfs(i+dirx[k], j+diry[k])
         }
-        
     }
     
     for i := range grid {
