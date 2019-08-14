@@ -1,0 +1,36 @@
+```golang
+func numIslands(grid [][]byte) int {
+    
+    if len(grid) == 0 || len(grid[0]) == 0 {
+        return 0
+    }
+    
+    dirx := []int{0, 0, -1, 1}
+    diry := []int{-1, 1, 0, 0}
+    
+    var dfs func(int, int)
+    dfs = func(i, j int) {
+        if i >= len(grid) || i < 0 || j >= len(grid[0]) || j < 0 || grid[i][j] == '0' {
+            return
+        }
+        
+        grid[i][j] = '0'
+        
+        for k := 0; k < 4; k++ {
+            dfs(i+dirx[k], j+diry[k])
+        }
+    }
+    
+    res := 0
+    for i := range grid {
+        for j := range grid[i] {
+            if grid[i][j] == '1' {
+                dfs(i, j)
+                res++
+            }
+        }
+    }
+    
+    return res
+}
+```
