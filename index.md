@@ -201,3 +201,6 @@
 
     - 2019-08-22
       - [093-restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
+
+    - 2019-08-26
+      - [093-word-search](https://leetcode.com/problems/word-search/description/)
