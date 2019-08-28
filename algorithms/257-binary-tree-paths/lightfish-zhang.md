@@ -29,12 +29,12 @@ func binaryTreePaths(root *TreeNode) []string {
 	return ret
 }
 
+
 func search(root *TreeNode) [][]int {
-	if root == nil {
-		return [][]int{}
+	if root.Left == nil && root.Right == nil {
+		return [][]int{{root.Val}}
 	}
 	ret := [][]int{}
-
 	if root.Left != nil {
 		ret1 := search(root.Left)
 		for i, _ := range ret1 {
@@ -48,9 +48,6 @@ func search(root *TreeNode) [][]int {
 			ret2[i] = append(ret2[i], root.Val)
 		}
 		ret = append(ret, ret2...)
-	}
-	if len(ret) == 0 {
-		ret = [][]int{{root.Val}}
 	}
 	return ret
 }
