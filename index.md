@@ -203,4 +203,7 @@
       - [093-restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
 
     - 2019-08-26
-      - [093-word-search](https://leetcode.com/problems/word-search/description/)
+      - [079-word-search](https://leetcode.com/problems/word-search/description/)
+
+    - 2019-08-28
+      - [257-binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/description/)
