@@ -8,12 +8,12 @@ func permute(nums []int) [][]int {
     visited := make([]bool, len(nums))
     res := [][]int{}
     
-    backTrack(nums, visited, &res, []int{})
+    backTrack(nums, []int{}, visited, &res)
     
     return res
 }
 
-func backTrack(nums []int, visited []bool, res *[][]int, sub []int) {
+func backTrack(nums, sub []int, visited []bool, res *[][]int) {
     if len(sub) == len(nums) {
         tmp := make([]int, len(sub))
         copy(tmp, sub)
@@ -27,7 +27,7 @@ func backTrack(nums []int, visited []bool, res *[][]int, sub []int) {
         }
         visited[i] = true
         sub = append(sub, num)
-        backTrack(nums, visited, res, sub)
+        backTrack(nums, sub, visited, res)
         visited[i] = false
         sub = sub[:len(sub)-1]
     }
