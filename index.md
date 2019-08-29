@@ -207,3 +207,6 @@
 
     - 2019-08-28
       - [257-binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/description/)
+    
+    - 2019-08-29
+      - [046-permutations](https://leetcode.com/problems/permutations/description/)
