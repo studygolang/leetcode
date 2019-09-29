@@ -18,8 +18,6 @@ func lengthOfLongestSubstring(s string) int {
 		} else {
 			delete(strMap, s[left])
             left++
-            strMap[s[right]] = struct{}{}
-            right++
 		}
 	}
 	return res
