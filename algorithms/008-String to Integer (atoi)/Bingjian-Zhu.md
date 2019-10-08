@@ -1,4 +1,3 @@
-执行用时 :0 ms
 ```golang
 func myAtoi(str string) int {
 	res := 0.0

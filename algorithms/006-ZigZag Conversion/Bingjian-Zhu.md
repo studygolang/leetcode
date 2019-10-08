@@ -1,7 +1,7 @@
 找规律
 1.首行和最后一行算出步长
 2.中间行，分别顺着找步长和逆着找步长
-执行用时 :0 ms
+
 ```golang
 func convert(s string, numRows int) string {
 	lenS := len(s)

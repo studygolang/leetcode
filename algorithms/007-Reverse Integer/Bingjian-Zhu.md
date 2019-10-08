@@ -1,6 +1,6 @@
 1.如为负数就先记录，并把负数取绝对值
 2.求模取余，每次取数字的最后一位
-执行用时 :0 ms，在所有 Go 提交中击败了100.00%的用户
+
 ```golang
 func reverse(x int) int {
 	isNegative := false
