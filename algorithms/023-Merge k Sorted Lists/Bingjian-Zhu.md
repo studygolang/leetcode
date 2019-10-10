@@ -1,18 +1,22 @@
-
+K个链表合并转成两两合并
 ```golang
 func mergeKLists(lists []*ListNode) *ListNode {
 	lenList := len(lists)
 	if lenList == 0 {
 		return nil
 	}
-	res := lists[0]
-	if lenList == 1 {
-		return res
+	left := 0
+	temp := lenList - 1
+	for temp != 0 {
+		for right := temp; left < right; right-- {
+			//每次循环把后半部分合并到前半部分，最终全部合并到lists[0]
+			lists[left] = mergeTwoLists(lists[left], lists[right])
+			left++
+		}
+		left = 0
+		temp = temp / 2
 	}
-	for i := 1; i < lenList; i++ {
-		res = mergeTwoLists(res, lists[i])
-	}
-	return res
+	return lists[0]
 }
 func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 	if l1 == nil {
