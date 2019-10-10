@@ -1,4 +1,4 @@
-指针操作
+链表操作
 ```golang
 /**
  * Definition for singly-linked list.
