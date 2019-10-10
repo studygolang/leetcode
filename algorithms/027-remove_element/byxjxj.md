@@ -1,5 +1,5 @@
 ```golang
-func removeElement(nums []int, val int) {
+func removeElement(nums []int, val int) int{
     
     res := 0
 
