@@ -1,5 +1,5 @@
 花里胡哨地用Go协程完成，为练习Go协程，对本题无特别意义
-```
+```golang
 /**
  * Definition for singly-linked list.
  * type ListNode struct {
@@ -7,6 +7,7 @@
  *     Next *ListNode
  * }
  */
+
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	l1Chan := make(chan int)
 	l2Chan := make(chan int)

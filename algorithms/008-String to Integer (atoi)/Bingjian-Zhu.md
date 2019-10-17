@@ -4,17 +4,17 @@ func myAtoi(str string) int {
 	isNegative := false
 	isBegin := false
 	for i := 0; i < len(str); i++ {
-		if (str[i] >= 48 && str[i] <= 57) || str[i] == 32 || str[i] == 45 || str[i] == 43 {
-			if str[i] >= 48 && str[i] <= 57 { //数字
+		if (str[i] >= '0' && str[i] <= '9') || str[i] == ' ' || str[i] == '-' || str[i] == '+' {
+			if str[i] >= '0' && str[i] <= '9' { //数字
 				isBegin = true
-				res = res*10.0 + float64(str[i]-48)
-			} else if str[i] == 45 && res <= 0 { //负号
+				res = res*10.0 + float64(str[i]-'0')
+			} else if str[i] == '-' && res <= 0 { //负号
 				if isBegin {
 					return checkNum(res, isNegative)
 				}
 				isBegin = true
 				isNegative = true
-			} else if str[i] == 43 { //正号
+			} else if str[i] == '+' { //正号
 				if isBegin {
 					return checkNum(res, isNegative)
 				}
